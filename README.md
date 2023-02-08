@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @marihelen
 - 👀 I’m interested in computer science, programing and management.
-- 🌱 I’m currently learning product management
 - 📫 To contact me, you can see my LinkedIn profile: https://www.linkedin.com/in/marihelensantos/?locale=en_US
 
 <!---
